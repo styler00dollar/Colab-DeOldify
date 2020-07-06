@@ -1,5 +1,5 @@
 
-# DeOldify
+# Colab-DeOldify-(Original+Anime)
 
 This repo is a combination of [jantic/DeOldify](https://github.com/jantic/DeOldify) and [Dakini/AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) and tries to combine everything related to images in one notebook. You can open it here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-DeOldify/blob/master/Colab-DeOldify-(Original%2BAnime).ipynb)
 
@@ -66,7 +66,48 @@ We'll get into the details in a bit, but first let's see some pretty pictures an
 
 [![](http://img.youtube.com/vi/EXn-n2iqEjI/0.jpg)](http://www.youtube.com/watch?v=EXn-n2iqEjI)
 
-## Example Images
+## Example Anime Images (Images from [Dakini/AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify))
+
+## Example Grayscale Images
+
+![Imgur Image](https://i.imgur.com/6ILHXKv.png)
+
+![Imgur Image](https://i.imgur.com/jWal2Yy.png)
+
+![Imgur Image](https://i.imgur.com/bIjzL4Y.png)
+
+![Imgur Image](https://i.imgur.com/hkEY8xw.png)
+
+![Imgur Image](https://i.imgur.com/u7VnO8G.png)
+
+![Imgur Image](https://i.imgur.com/SxkCbSV.png)
+
+## Example Sketch images
+![Imgur Image](https://i.imgur.com/Pv55JR0.png)
+
+![Imgur Image](https://i.imgur.com/txFXt3h.png)
+
+![Imgur Image](https://i.imgur.com/0h6npGK.jpg)
+
+![Imgur Image](https://i.imgur.com/bPApVZG.jpg)
+
+![Imgur Image](https://i.imgur.com/ht5Tl5M.jpg)
+
+## Manga Colorisation
+
+![Imgur Image](https://pbs.twimg.com/media/EXPlda8X0AEdtUx?format=jpg&name=4096x4096)
+
+![Imgur Image](https://pbs.twimg.com/media/EW3NDhMX0AEhl6y?format=jpg&name=medium)
+
+![Imgur Image](https://pbs.twimg.com/media/EW3NEQBWsAAsouA?format=jpg&name=small)
+
+![Imgur Image](https://pbs.twimg.com/media/EXQrJnBXsAEEwbz?format=jpg&name=medium)
+
+![Imgur Image](https://pbs.twimg.com/media/EXQrLAbWsAMBpAb?format=png&name=900x900)
+
+![Imgur Image](https://pbs.twimg.com/media/EW3NBweWAAIjwA_?format=jpg&name=medium)
+
+## Example Images with original DeOldify
 
 "Migrant Mother" by Dorothea Lange (1936)
 
