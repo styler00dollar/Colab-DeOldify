@@ -9,6 +9,7 @@ The **most advanced** version of DeOldify image colorization is available here, 
 
 ----------------------------
 Original colabs:
+
 Image (artistic) from [jantic/DeOldify](https://github.com/jantic/DeOldify) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb)
 
 Image (stable) from [jantic/DeOldify](https://github.com/jantic/DeOldify) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColabStable.ipynb)
