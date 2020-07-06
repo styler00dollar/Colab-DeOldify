@@ -1,18 +1,21 @@
 
 # DeOldify
 
+This repo is a combination of [jantic/DeOldify](https://github.com/jantic/DeOldify) and [Dakini/AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) and tries to combine everything related to images in one notebook. You can open it here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-DeOldify/blob/master/Colab-DeOldify-(Original%2BAnime).ipynb)
+
 **Quick Start**: The easiest way to colorize images using DeOldify (for free!) is here: [DeOldify Image Colorization on DeepAI](https://deepai.org/machine-learning-model/colorizer)
 
 The **most advanced** version of DeOldify image colorization is available here, exclusively.  Try a few images for free! [MyHeritiage In Color](https://www.myheritage.com/incolor)
 
 ----------------------------
+Original colabs:
+Image (artistic) from [jantic/DeOldify](https://github.com/jantic/DeOldify) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb)
 
-Image (artistic) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb) |
-Video [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb)
+Image (stable) from [jantic/DeOldify](https://github.com/jantic/DeOldify) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColabStable.ipynb)
 
-**NEW** Having trouble with the default image colorizer, aka "artistic"?  Try the "stable" one below.  It generally won't produce colors that are as interesting as "artistic", but the glitches are noticeably reduced.  
+Image from [Dakini/AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/Dakini/AnimeColorDeOldify/blob/master/ImageColorizerColab.ipynb)
 
-Image (stable) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColabStable.ipynb)
+Video from [jantic/DeOldify](https://github.com/jantic/DeOldify) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb)
 
 Instructions on how to use the Colabs above have been kindly provided in video tutorial form by Old Ireland in Colour's John Breslin.  It's great! Click video image below to watch.
 
